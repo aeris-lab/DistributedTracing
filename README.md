@@ -225,9 +225,6 @@ normalized = [normalize_author_name(author) for author in authors]
 ```python
 # Example institution mapping
 institution_mapping = {
-    "MIT": "Massachusetts Institute of Technology",
-    "Stanford University": "Stanford University",
-    "Stanford CS": "Stanford University",
     "Google Inc.": "Google",
     "Google LLC": "Google",
     "Microsoft Corporation": "Microsoft",
