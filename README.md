@@ -5,7 +5,7 @@ This repository contains the complete methodology and data for our systematic li
 ## 🔍 Reproducible Search Examples
 
 ### Methodology Overview
-![methodology diagram](https://github.com/user-attachments/assets/5421407a-4ff3-407a-914f-17de7522f509)
+![methodology diagram](https://github.com/user-attachments/assets/963eb812-6219-46b1-95a3-6714a72e213b)
 
 ### Search Parameters Overview
 **Keywords Used:** `"distributed tracing"` (exact phrase)  
